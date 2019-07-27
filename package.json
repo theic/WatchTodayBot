@@ -1,7 +1,7 @@
 {
   "name": "watchtodaybot",
-  "version": "0.0.1",
-  "description": "Watch today's new episodes.",
+  "version": "0.0.2",
+  "description": "Новые эпизоды каждый день.",
   "main": "app.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.1",
